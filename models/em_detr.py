@@ -7,9 +7,6 @@
 #   publisher={IEEE}
 # }
 
-"""
-DETR model and criterion classes.
-"""
 import torch
 import torch.nn.functional as F
 from torch import nn
